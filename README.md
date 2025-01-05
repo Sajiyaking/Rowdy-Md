@@ -3,7 +3,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://i.ibb.co/zZ13BVL/9674.jpg"  width="300" height="300">
+<img src = "https://i.ibb.co/zZ13BVL/9674.jpg"  width="300" height="200">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=ROWDY+MD+WHATSAPP+BOT+MD+V2" alt="">
