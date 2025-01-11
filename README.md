@@ -8,41 +8,6 @@
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=ROWDY+MD+WHATSAPP+BOT+MD+V2" alt="">
    
-## 𝐑𝐎𝐖𝐃𝐘 - 𝐌𝐃 
-<div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines= 𝐑𝐨𝐰𝐝𝐲-𝐌𝐝;𝐌𝐮𝐥𝐭𝐢+𝐃𝐞𝐯𝐢𝐜𝐞+𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐨+𝐁𝐨𝐭;𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝+𝐁𝐲+𝐌𝐫 𝐃𝐚𝐤𝐬𝐡𝐢𝐧𝐚" alt="Typing SVG" /></a>
-  
-
-  
-<p align="center">
-  <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/c53cf54f39451f92362ec.jpg"> 
-    </p>
-    <h1 align="center">𝚁𝚘𝚠𝚍𝚢-1.O<br></h1>
-   </a>
-</p>
-  <p align="center">
-  <a aria-label="ROWDY MD is free to use" href="https://youtube.com/@mhmodsofc" target="_blank">
-    <img alt="MH MODS OFC Yt" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
-  </a>
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
-
-
-
-  <p align="center">
-<a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Follow Wa Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCWHA-PreVSVaYhDTAiUipCA"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://whatsapp.com/channel/0029VaFNrVHBfxoBuY2TzH2w"><img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-   
-<p align="center">
-<a href="https://github.com/gssbotwa/followers"><img title="Followers" src="https://img.shields.io/github/followers/gssbotwa?color=red&style=flat-square"></a>
-<a href="https://github.com/chhaseeb47/ROWDY-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/chhaseeb47/ROWDY-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/chhaseeb47/ROWDY-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/chhaseeb47/ROWDY-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/chhaseeb47/ROWDY-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/chhaseeb47/ROWDY-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/chhaseeb47/ROWDY-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-%20HASEEB-red?v=103"></a>
-<a href="https://github.com/chhaseeb47/HASI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/chhaseeb47/ROWDY-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/chhaseeb47/ROWDY-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
