@@ -1,4 +1,8 @@
-# Rowdy-Md
+<div align="center">
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=R O W D Y+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+<img 
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐃𝐚𝐤𝐬𝐡𝐢𝐧𝐚 ❤️‍🩹😚
 <div class = "repo" align = "center">
  
