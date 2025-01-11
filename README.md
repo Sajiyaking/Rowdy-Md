@@ -19,3 +19,20 @@
 <a href='https://qr-Rowdy-MD.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 <a href='https://qr-hasi-md.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
 
+- _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
+ - _Deploy using your host._
+   </br>
+
+  1..DEPLOY ON RENDER
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mrdakshina/ROWDY-MD.git)
+
+***<p align="center"> • [`Tap here for Render tutorial`](https://youtu.be/aIUe2sEmd_E?si=WiL0IMrI79GJuog9) </p>***
+
+   2..DEPLOY ON GITHUB
+
+***<p align="center"> • [`Tap here for Github deploy tutorial`](https://youtu.be/NHxe-ynZmGI) </p>***
+
+   3..DEPLOY ON KOYEB
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=Rowdy-md&type=git&repository=Mrdakshina%2FRowdy-MD&branch=V-2.00&builder=dockerfile&env%5BMONGODB%5D=your+mongodb+uri&env%5BSESSION_ID%5D=your+session+id&ports=8000%3Bhttp%3B%2F)
