@@ -7,11 +7,7 @@
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=ROWDY+MD+WHATSAPP+BOT+MD+V2" alt="">
-</p>
-<p align="center">
-  <a href="">
-    <img alt=Support height="100" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
-
+   
 ## 𝐑𝐎𝐖𝐃𝐘 - 𝐌𝐃 
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines= 𝐑𝐨𝐰𝐝𝐲-𝐌𝐝;𝐌𝐮𝐥𝐭𝐢+𝐃𝐞𝐯𝐢𝐜𝐞+𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐨+𝐁𝐨𝐭;𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝+𝐁𝐲+𝐌𝐫 𝐃𝐚𝐤𝐬𝐡𝐢𝐧𝐚" alt="Typing SVG" /></a>
