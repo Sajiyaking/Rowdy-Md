@@ -8,9 +8,6 @@
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=ROWDY+MD+WHATSAPP+BOT+MD+V2" alt="">
    
-<a href="https://github.com/chhaseeb47/ROWDY-MD/graphs/commit-activity"><img height="20" 
-
-
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏
 
 
