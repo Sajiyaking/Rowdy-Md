@@ -19,7 +19,27 @@
     "ALIVE_MSG": {
       "description": "Put your alive msg here.",
       "required": true
-    }   
+    },  
+
+    PREFIX": {
+      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "required": false,
+      "value": "."
+    },
+
+    MODE": {
+      "description": "select your bot work type public-private-inbox-group.",
+      "required": false,
+      "value": "public"
+      
+    },
+
+    AUTO_STATUS_SEEN": {
+      "description": "Make it true for automatic status seen.",
+      "required": true,
+      "value": "true"
+    }, 
+
 },
 
      "buildpacks": [
