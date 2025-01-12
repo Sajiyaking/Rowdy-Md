@@ -11,18 +11,20 @@
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏
 
+### Step 1: Get the Session ID
 
-### 1. FORK THIS REPO
-<a href='https://github.com/chhaseeb47/Rowdy-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+1. **Access the URL**: Open your browser and navigate to [https://prabath-md-pair-web-v2-slk.koyeb.app/pair](https://prabath-md-pair-web-v2-slk.koyeb.app/pair).
+2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
-### 2. SCAN QR CODE 
-<a href='https://qr-Rowdy-MD.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-<a href='https://qr-hasi-md.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
+### Step 2: Remove the Prefix
 
-- _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
- - _Deploy using your host._
-   </br>
+- If your session ID looks something like `PRABATH-MD~123456`, you need to remove the prefix (`PRABATH-MD~`) to get just the numerical part (e.g., `123456`).
 
+### Step 3: Add Session ID to Config.js
+
+1. **Open your project**: Navigate to your bot's project directory where the `config.js` file is located.
+2. **Edit config.js**: Open the `config.js` file in a text edito
+   
   1..DEPLOY ON RENDER
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mrdakshina/ROWDY-MD.git)
